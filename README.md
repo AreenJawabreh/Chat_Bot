@@ -45,7 +45,7 @@ project_folder/
 ## 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/AreenJawabreh/Chat_Bot.git
 ```
 
 ## 2. Navigate to the Project Folder
