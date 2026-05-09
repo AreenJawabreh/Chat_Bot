@@ -119,16 +119,6 @@ This allows the chat to behave like a real messaging application.
 
 ---
 
-# 🎥 Demo Video
-
-A short demo video explains:
-- How the application runs
-- How users interact with the chatbot
-- How local responses are generated
-- Streamlit chat components used in the project
-
----
-
 # 📸 Streamlit Components Used
 
 - `st.chat_message()`
@@ -142,9 +132,3 @@ A short demo video explains:
 ```txt
 streamlit
 ```
-
----
-
-# 👩‍💻 Author
-
-Your Name Here
